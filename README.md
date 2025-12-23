@@ -581,12 +581,7 @@ contact.html
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/6e65ced2-0937-4f09-b5c1-45b7898d98cc)
-![image](https://github.com/user-attachments/assets/bd8dd1c6-ba32-4bbd-95b9-427bd4fba733)
-![image](https://github.com/user-attachments/assets/bea4e976-7db7-4d52-adf0-4306e0a50c51)
-![image](https://github.com/user-attachments/assets/7dcf2523-1be5-4132-ba75-1807f69a81f8)
-![image](https://github.com/user-attachments/assets/d8bfa027-e964-4326-8bd5-6fb603295927)
-![image](https://github.com/user-attachments/assets/c0188ac3-afe2-45d6-8925-5039058c81bd)
+![alt text](445909301-7dcf2523-1be5-4132-ba75-1807f69a81f8.png) ![alt text](445909376-d8bfa027-e964-4326-8bd5-6fb603295927.png) ![alt text](445909462-c0188ac3-afe2-45d6-8925-5039058c81bd.png) ![alt text](ypng.png) ![alt text](445909204-bd8dd1c6-ba32-4bbd-95b9-427bd4fba733.png) ![alt text](445909256-bea4e976-7db7-4d52-adf0-4306e0a50c51.png)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
